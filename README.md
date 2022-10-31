@@ -11,7 +11,7 @@
 
 **git branch -** usado para gerenciar(criar, atualizar, listar e remover) branchs (ramificações) do repositório
 
-**git checktou -** seleciona a branch desejada
+**git checkout -** seleciona a branch desejada
 
 **git fetch -** sincroniza repositório local com repositório remoto
 
